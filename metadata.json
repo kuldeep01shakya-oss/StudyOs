@@ -1,0 +1,6 @@
+{
+  "name": "StudyOS",
+  "description": "Smart study tracking, focus timer, reminders, and AI study tutor",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

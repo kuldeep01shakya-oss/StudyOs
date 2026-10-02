@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StudyOS</string>
+    <string name="tab_todo">To-Do</string>
+    <string name="tab_focus">Focus</string>
+    <string name="tab_stats">Stats</string>
+    <string name="tab_ai_tutor">AI Tutor</string>
+    <string name="tab_records">Records</string>
+</resources>
